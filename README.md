@@ -17,3 +17,4 @@ I learn a lot of stuff related to data science skills. this bootcamp had 10 spri
 - Essential Python for Data Analyst
 - Dashboard
 
+You can find me on

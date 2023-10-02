@@ -1,20 +1,13 @@
-# data-science-bootcamp-8
-My data portfolio for data analyst role
+# Data Science Bootcamp 8 [By DataRockie]
+Duration: May - November'2023
 
-## what did I learn from this bootcamp
-
-I learn a lot of stuff related to data science skills. this bootcamp had 10 sprints as follow
-
-- Intro to data science
+I learned a lot from this course, as shown here;
+- Basic Data Knowledge
 - Spreadsheets
-- Database (SQL)
-- R Programing
-- Data Transformation
-- Data Visualization
-- Essential Statistics for Data Analyst
-- Essential Machine Learning for Data Analyst
-- Python programming
-- Essential Python for Data Analyst
-- Dashboard
-
-You can find me on
+- SQL
+- Programming Foundation (R, Python)
+- Data Wrangling
+- Data Visualization & Dashboard
+- Statistics
+- Machine Learning
+- Etc.
